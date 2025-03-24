@@ -4,6 +4,7 @@
 **leowjs/leowjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I'm Leow Jun Shou, a dedicated Data Scientist with a strong foundation in Artificial Intelligence, currently transitioning into roles such as AI Engineer and Machine Learning Engineer. I hold a Master's degree in Data Science and a Bachelor's degree in Artificial Intelligence from the University of Malaya, Malaysia's top university.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
